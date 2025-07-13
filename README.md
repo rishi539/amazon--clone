@@ -224,14 +224,11 @@ Make sure these prerequisites are fulfilled before proceeding with the installat
 
 For any questions or inquiries about the Amazon clone project, feel free to reach out via the following:
 
-- **Email**: [birukjira@gmail.com](mailto:birukjira@gmail.com)
-- **GitHub**: [GitHub Profile](https://github.com/birukjira)
-- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/birukjira)
+- **Email**: [Email](rishinatarajsundar@gmail.com)
+- **GitHub**: [GitHub Profile](https://github.com/rishi539/amazon--clone)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rishi-n-270907308/)
 
 Feel free to contact me if you encounter any issues, need further guidance, or have suggestions for improving the project!
 
-## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-- [Evangadi Tech](https://www.evangadi.com/)
