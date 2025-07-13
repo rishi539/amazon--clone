@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "CustomFont", sans-serif;
+}
+
+@font-face {
+  font-family: "CustomFont";
+  src: url("./assets/fonts/AmazonEmber_W_Rg.woff") format("woff"),
+    url("./assets/fonts/AmazonEmber_W_Bd.woff") format("woff"),
+    url("./assets/fonts/AmazonEmber_W_Th.woff") format("woff");
+  /* Add additional font formats if necessary */
+  /* Specify the correct path to the font files */
+}
+
+:root {
+  --primary-color: #febd69;
+  --primary-shade: #d49644;
+}
+
+.body {
+  font-family: "CustomFont", sans-serif;
+}

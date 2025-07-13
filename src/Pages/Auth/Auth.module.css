@@ -1,0 +1,92 @@
+.auth {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+.auth img {
+  margin: 30px auto;
+  object-fit: contain;
+  width: 140px;
+}
+
+.auth__container {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 5px;
+  border: 1px solid lightgray;
+  padding: 20px;
+}
+
+.auth__container h1 {
+  font-size: 25px;
+  margin: 20px 0;
+}
+
+.auth__container form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.auth__container form div {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.auth__container form input {
+  margin-bottom: 10px;
+  padding: 8px 16px;
+  background-color: #fff;
+  width: 100%;
+  border: none;
+  border: 1px solid gray;
+  border-radius: 3px;
+}
+
+.auth__container form input:focus {
+  outline: 2px solid skyblue;
+}
+
+.auth__signIn_btn {
+  border: none;
+  background-color: #f0c14b;
+  border-radius: 5px;
+  width: 100%;
+  height: 30px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.auth__signIn_btn:hover {
+  background-color: var(--primary-shade);
+}
+.auth__container p {
+  padding: 10px 0;
+  font-size: 14px;
+}
+.auth__signUp_btn {
+  border: none;
+  background-color: #e6e3e3;
+  border-radius: 5px;
+  width: 100%;
+  height: 30px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.auth__signUp_btn:hover {
+  background-color: #ccc;
+}
+
+.auth__error {
+  padding-top: 5px;
+  color: red;
+}
+.auth__msg_login {
+  padding: 5px;
+  text-align: center;
+  color: red;
+  font-weight: bold;
+}
